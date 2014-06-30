@@ -1,4 +1,4 @@
 libanius-dev
 ============
 
-Libanius: a machine-corrected EpiDoc version of the Libanius' Opera Omnia.
+A machine-corrected EpiDoc version of the works of the Greek rhetorician Libanius.
